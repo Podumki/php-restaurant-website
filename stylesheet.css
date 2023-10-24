@@ -1,0 +1,53 @@
+body {
+  background-color: Lavender;
+  font: Cormorant;
+}
+
+h1 {
+font-family: Frank Ruhl Libre, serif;
+  color: maroon;
+}
+h2 {
+font-family: Poppins, italic;
+  color: maroon;
+}
+h3 {
+font-family: Frank Ruhl Libre, serif;
+  color: maroon;
+}
+
+.footerdiv {
+	margin: auto;
+	font-family: Quicksand, sans-serif;	
+	border-style: groove;
+	border: 1px solid maroon;
+	border-radius: 50px;
+	border-width: auto;
+	width: 250px;
+	height: 100px;
+}
+.paragraphdiv {
+	font-family: Quicksand, sans-serif;
+	color: maroon;
+}
+
+.menudiv{
+	font-family: Libre Franklin, sans-serif;
+    margin: auto;
+    width: 100%;
+    max-width: 1000px;
+    padding:10px;
+    background-color: #ccc;
+}
+
+fieldset{
+	width: 50%;
+	float: left;
+	}
+
+#menu {
+	width: 70%;
+}
+#order {
+	width: 30%;
+}
